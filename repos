@@ -1,0 +1,6 @@
+echo "# cmsa2-cp3402-2019-team4" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/CP3402-2018/cmsa2-cp3402-2019-team4.git
+git push -u origin master
