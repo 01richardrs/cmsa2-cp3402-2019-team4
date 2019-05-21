@@ -1,6 +1,8 @@
 # cmsa2-cp3402-2019-team4
-SHOEPATU
+# SHOEPATU
+---
 - Shoepatu is a website intended to promote service of customizing shoes & apparel.
+---
 
 <h1>Website Development</h1>
 
