@@ -2,7 +2,7 @@
 SHOEPATU
 - Shoepatu is a website intended to promote service of customizing shoes & apparel.
 
-Website Development 
+<h1>Website Development</h1>
 
 1. our team is using Siteground to host website. URL : www.siteground.com
 Siteground setup :
@@ -21,6 +21,6 @@ Wordpress setup :
   > CookieNotice (http://www.dfactory.eu/): Cookie Notice allows you to elegantly inform users that your site uses cookies and to comply       with the EU cookie law GDPR regulations.
 - Start designing and managing content.
 
-Project Communication
+<h1>Project Communication</h1>
 
 Our team communicates mainly in slack which is integrated to our github repository & trello boards. 
