@@ -23,6 +23,7 @@ Wordpress setup :
   > SSL (https://really-simple-plugins.com/): Lightweight plugin without any setup to make your site SSL proof.
   > Wordfence (http://www.wordfence.com/): Wordfence Security - Anti-virus, Firewall and Malware Scan
   > CookieNotice (http://www.dfactory.eu/): Cookie Notice allows you to elegantly inform users that your site uses cookies and to comply       with the EU cookie law GDPR regulations.
+- Starts by using starter theme. Our team use the theme "OceanWP" ( https://oceanwp.org/ )
   
 3. Start designing and managing content.
 
