@@ -4,7 +4,9 @@
 - Shoepatu is a website intended to promote service of customizing shoes & apparel.
 ---
 
+
 <h1>Website Development</h1>
+---
 
 1. our team is using Siteground to host website. URL : www.siteground.com
 Siteground setup :
@@ -25,10 +27,13 @@ Wordpress setup :
 3. Start designing and managing content.
 
 <h1>Project Communication</h1>
+---
 
 Our team communicates mainly in slack which is integrated to our github repository & trello boards.
 
 <h1>Contributors</h1>
+---
+
 - Aldrich Widjaja | Design Lead | 
 - Winson Alexander Tjuatja | Coordinator |
 - Richard Setiawan | Content Lead |
