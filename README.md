@@ -6,7 +6,6 @@
 
 
 <h1>Website Development</h1>
----
 
 1. our team is using Siteground to host website. URL : www.siteground.com
 Siteground setup :
@@ -27,8 +26,11 @@ Wordpress setup :
   
 3. Start designing and managing content.
 
+<h1>Deployed Website</h1>
+
+CLick here -> https://aldrichw.sgedu.site/cms2019team4/
+
 <h1>Project Communication</h1>
----
 
 Our team communicates mainly in slack which is integrated to our github repository & trello boards.
 Slack : cmsteam4bro.slack.com
@@ -36,7 +38,6 @@ Trello boards : https://trello.com/b/CKG0fv7s/shoepatu-website
 Github :
 
 <h1>Contributors</h1>
----
 
 - Aldrich Widjaja | Design Lead | 
 - Winson Alexander Tjuatja | Coordinator |
