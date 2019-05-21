@@ -30,6 +30,9 @@ Wordpress setup :
 ---
 
 Our team communicates mainly in slack which is integrated to our github repository & trello boards.
+Slack : cmsteam4bro.slack.com
+Trello boards : https://trello.com/b/CKG0fv7s/shoepatu-website
+Github :
 
 <h1>Contributors</h1>
 ---
