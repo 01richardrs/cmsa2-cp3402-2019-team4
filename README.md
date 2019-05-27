@@ -10,11 +10,11 @@
 1. our team is using Siteground to host website. URL : www.siteground.com
 Siteground setup :
 - Login using school emails and details.
-- Adding installation manually and choosing wordpress as script
+- Adding installation manually and choosing wordpress as content management system
 - Link of finished installation : https://aldrichw.sgedu.site/cms2019team4/
 - Admin Link : https://aldrichw.sgedu.site/cms2019team4/wp-admin
 
-2. Our team is using Wordpress as main script.
+2. Our team is using Wordpress as main content management system.
 Wordpress setup :
 - Install useful plugins ( Elementor , WPForms , SSL , Wordfence , CookieNotice )
   > Elementor (https://elementor.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash) : The most advanced frontend drag &     drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
@@ -33,9 +33,9 @@ CLick here -> https://aldrichw.sgedu.site/cms2019team4/
 <h1>Project Communication</h1>
 
 Our team communicates mainly in slack which is integrated to our github repository & trello boards.
-- Slack : cmsteam4bro.slack.com
-- Trello boards : https://trello.com/b/CKG0fv7s/shoepatu-website
-- Github : https://github.com/CP3402-2018/cmsa2-cp3402-2019-team4
+- For development communication we use Slack : cmsteam4bro.slack.com
+- For Project planning we use Trello boards : https://trello.com/b/CKG0fv7s/shoepatu-website
+- For project repository we use Github : https://github.com/CP3402-2018/cmsa2-cp3402-2019-team4
 
 <h1>Contributors</h1>
 
